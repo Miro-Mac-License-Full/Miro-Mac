@@ -19,7 +19,7 @@
 <a href="#"><img src="https://img.shields.io/badge/license-Pro%20License-lightgrey?style=flat" alt="license"/></a>
 <a href="#"><img src="https://img.shields.io/badge/platform-macOS-blue?style=flat" alt="platform"/></a>
 
-<img src="https://static.macupdate.com/screenshots/280399/m/miro-screenshot.png?v=1603654461" width="824" alt="Screenshot"/>
+<img src="https://img.utdstc.com/screen/24f/fa7/24ffa70f0d0400ba956c14d71d253ea6462febdf11ff209bab090e4f89855d6b:600" width="824" alt="Screenshot"/>
 
 </div>
 
